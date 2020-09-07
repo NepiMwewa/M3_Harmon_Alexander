@@ -4,6 +4,8 @@ Apples
 Oranges
 Bananas
 Cherries
-Carrots
+Carrot
 Cereal
 Milk
+Corn
+Potatoes
